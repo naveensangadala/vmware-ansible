@@ -1,9 +1,0 @@
----
-vcenter_host: 10.193.34.216
-vcenter_username: nsangadala
-vcenter_password: Welcome1
-datacenter_name: HamiltonDR
-esxi_hostname: 10.193.34.218
-datastore_name: RKE-Pure-MFX-DR-LUN39
-cpu: 4
-mem_mb: 4096
