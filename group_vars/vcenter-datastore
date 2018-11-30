@@ -1,5 +1,5 @@
 ---
-vcenter_host: 10.193.34.216
-vcenter_username: nsangadala
-vcenter_password: Welcome1
-datacenter_name: HamiltonDR
+vcenter_host: XXXXX
+vcenter_username: XXXX
+vcenter_password: XXXX
+datacenter_name: XXXX
