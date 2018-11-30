@@ -1,14 +1,7 @@
 [localhost]
 XXXXXXX
 
-[vm-linux-reconfigure]
-XXXXXXX
-
-[vm-windows-reconfigure]
-XXXXXXX
-
 [vcenter-datastore]
 XXXXXXX
 
-[vm-windows-server2012-datastore]
-XXXXXXX
+
