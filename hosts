@@ -1,50 +1,14 @@
 [localhost]
-10.55.8.177
-
-[aws]
-10.55.8.177
+XXXXXXX
 
 [vm-linux-reconfigure]
-10.55.8.177
-
-[vm-linux-disk]
-10.55.8.177
-
-[vm-windows-server2012-disk]
-10.55.8.177
+XXXXXXX
 
 [vm-windows-reconfigure]
-10.55.8.177
+XXXXXXX
 
 [vcenter-datastore]
-10.55.8.177
+XXXXXXX
 
 [vm-windows-server2012-datastore]
-10.55.8.177
-
-[service-now]
-149.96.52.94
-
-[vm-linux]
-10.55.8.177
-
-[vm-windows]
-10.55.8.177
-
-[vm-windows1]
-10.55.8.177
-
-[vm-windows-network]
-10.55.8.177
-
-[vm-windows-server]
-10.55.8.177
-
-[vm-windows-server1]
-10.55.8.177
-
-[vm-windows-server2012]
-10.55.8.177
-
-[vm-windows1-server2012]
-10.55.8.177
+XXXXXXX
