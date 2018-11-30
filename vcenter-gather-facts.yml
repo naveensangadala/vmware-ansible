@@ -4,9 +4,9 @@
   tasks:
    - name: Gather only registered virtual machines
      vmware_vm_facts:
-         hostname: 10.193.34.216
-         username: nsangadala
-         password: Welcome1
+         hostname: XXXX
+         username: XXXX
+         password: XXXX
          vm_type: all
          validate_certs: no
      delegate_to: localhost
